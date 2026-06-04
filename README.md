@@ -3,4 +3,4 @@
 
 - [Harnessing Generative AI for Investment Excellence](https://github.com/Pyligent/Key-Speech-in-industry/blob/main/Harnessing%20Generative%20AI%20for%20Investment%20Excellence%20(1).pdf) at 6th Annual Machine Learning in Quantitative Finance Industry, 09,2024, NYC
 
-- [Governed Agentic Harnesses: A Control Architecture for Agentic AI in Regulated Finance White Paper]()
+- [Governed Agentic Harnesses: A Control Architecture for Agentic AI in Regulated Finance White Paper](https://github.com/Pyligent/Key-Speech-in-industry/blob/main/Governed_Agentic_Harnesse.pdf)
